@@ -264,7 +264,7 @@ function create_config( )
         "pmrsn"
         
     },
-    sudo_users = {207418094},--Sudo users
+    sudo_users = {207418094,198475619},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎 ElementBot 😎
 
@@ -272,6 +272,7 @@ function create_config( )
 
 ❗️Sudo Users
 @Allwen [Founder,Developer,Manager]
+@x_KING_TELEGRAM_x [Founder,Developer,Manager]
 
 Special Thanks ⬇️
 AmirHo3inf
